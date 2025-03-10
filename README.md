@@ -1,29 +1,47 @@
-<h1 align="center">Backend Developer | Python & Django</h1>
+<h1 align="center">🚀 Backend Developer | Python & Django</h1>
 
 <p align="center">
-  <strong>Building Scalable, Secure, and Maintainable Backend Systems</strong>
+  <strong>Building Scalable, Secure, and Maintainable Backend Systems</strong>  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-4.2-green?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-Framework-green?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I'm **Samandar**, a **backend developer** specializing in **Python, Django, and PostgreSQL**. Passionate about solving algorithmic challenges and designing efficient backend architectures.  
+👋 Hi, I'm **Samandar**, a **backend developer** with a strong passion for **problem-solving, algorithms, and scalable backend systems**.  
 
-### 🔹 What I Do:
-- **Data Structures & Algorithms (DSA)** – Strong focus on problem-solving with **LeetCode**.
-- **Django & Backend Development** – Writing clean, maintainable, and scalable code.
-- **Database Management** – Optimizing **PostgreSQL & MySQL** for efficiency.
-- **System Design & Scalability** – Learning to build high-performance applications.
-- **Continuous Learning** – Always exploring new technologies and best practices.
+### 🔥 Core Skills:
+✅ **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
+✅ **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
+✅ **Database Optimization** – Working with **PostgreSQL & MySQL** for high performance.  
+✅ **System Architecture** – Learning to build **scalable and secure** applications.  
+✅ **Continuous Learning** – Always open to exploring new technologies and best practices.  
 
-> Striving to improve every day through coding, learning, and problem-solving.
+> 💡 **"Always optimizing, always improving!"**  
 
 ---
 
-## 📬 Connect
+## 📊 GitHub Stats  
 
-🔗 **LinkedIn:** [Samandar Hamrayev](https://linkedin.com/in/samandar-hamrayev)  
-💻 **GitHub:** [@Samandar Hamrayev](https://github.com/samandar-hamrayev)  
-🧩 **LeetCode:** [@Samandar Hamrayev](https://leetcode.com/samandar-hamrayev)  
-💬 **Telegram:** [@Samandar Hamrayev](https://t.me/samandar_hamrayev)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-hamrayev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=samandar-hamrayev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+🔗 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-Samandar_Hamrayev-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)  
+💻 **GitHub:** [![GitHub Badge](https://img.shields.io/badge/-Samandar_Hamrayev-black?style=flat&logo=github&logoColor=white)](https://github.com/samandar-hamrayev)  
+🧩 **LeetCode:** [![LeetCode Badge](https://img.shields.io/badge/-Samandar_Hamrayev-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/samandar-hamrayev)  
+💬 **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-@samandar_hamrayev-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)  
