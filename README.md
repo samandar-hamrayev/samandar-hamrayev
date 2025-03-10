@@ -32,7 +32,7 @@
 ---
 ## 📌 Learning Roadmap  
 
-🚀 **API Development** – Enhancing structure, performance & security in **Django & FastAPI**.  
+- :rocket:  **API Development** – Enhancing structure, performance & security in **Django & FastAPI**.  
 📈 **Advanced DSA** – Practicing **medium & hard** problems on **LeetCode**.  
 🏗 **System Design** – Studying **scalability, caching, and microservices**.  
 📦 **DevOps Basics** – Getting hands-on with **Docker, CI/CD, and Linux servers**.  
