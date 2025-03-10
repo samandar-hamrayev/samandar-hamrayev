@@ -23,6 +23,6 @@ I'm **Samandar**, a **backend developer** specializing in **Python, Django, and 
 
 ## 📬 Connect
 
-🔗 **LinkedIn:** [Samandar](https://linkedin.com/in/samandar-hamrayev)  
-💻 **GitHub:** [@Samandar](https://github.com/samandar-hamrayev)  
-💬 **Telegram:** [@yourtelegram](https://t.me/samandar_hamrayev)
+🔗 **LinkedIn:** [Samandar Hamrayev](https://linkedin.com/in/samandar-hamrayev)  
+💻 **GitHub:** [@Samandar Hamrayev](https://github.com/samandar-hamrayev)  
+💬 **Telegram:** [@Samandar Hamrayev](https://t.me/samandar_hamrayev)
