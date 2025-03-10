@@ -18,6 +18,8 @@
 
 👋 Hi, I'm **Samandar**, a **backend developer** with a strong passion for **problem-solving, algorithms, and scalable backend systems**.  
 
+💡 Always eager to explore new technologies, refine my skills, and tackle challenging problems.  
+
 ### 🔥 Core Skills:
 ✅ **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
 ✅ **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
@@ -25,17 +27,17 @@
 ✅ **System Architecture** – Learning to build **scalable and secure** applications.  
 ✅ **Continuous Learning** – Always open to exploring new technologies and best practices.  
 
-> 💡 **"Always optimizing, always improving!"**  
+> 🏆 Currently focusing on **API design, system scalability, and DSA problem-solving**.  
 
 ---
 ## 📌 Learning Roadmap  
 
-🚀 **Improving API Development** – Better structuring & optimization with Django & FastAPI.  
-📈 **Advanced DSA** – Practicing **medium & hard problems** on **LeetCode**.  
-🛠 **System Design** – Learning scalability, caching, and microservices.  
-📦 **DevOps Basics** – Working with **Docker, CI/CD, and Linux servers**.  
----
+🚀 **API Development** – Enhancing structure, performance & security in **Django & FastAPI**.  
+📈 **Advanced DSA** – Practicing **medium & hard** problems on **LeetCode**.  
+🏗 **System Design** – Studying **scalability, caching, and microservices**.  
+📦 **DevOps Basics** – Getting hands-on with **Docker, CI/CD, and Linux servers**.  
 
+---
 ## 📬 Connect With Me  
 
 🔗 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-Samandar_Hamrayev-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)  
