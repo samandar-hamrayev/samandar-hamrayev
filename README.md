@@ -8,14 +8,17 @@
 
 ## 👨‍💻 About Me
 
-I'm **Samandar**, a **backend developer** specializing in **Python, Django, and PostgreSQL**. Passionate about designing efficient, scalable, and maintainable backend solutions.
+I'm **Samandar**, a **backend developer** specializing in **Python, Django, and PostgreSQL**. Passionate about designing efficient, scalable, and maintainable backend solutions.  
 
-**Core Skills:**
-- **RESTful API Development** with Django & FastAPI
-- **Database Optimization** (PostgreSQL, MySQL)
-- **Security & Performance Enhancements**
-- **Scalable System Architecture**
+I actively focus on **Data Structures & Algorithms (DSA)** to enhance problem-solving skills and write optimized code. Always eager to learn and explore new technologies.
+
+### **Core Skills:**
+- **Backend Development** (Django, FastAPI, SQLAlchemy)
+- **RESTful API Design & Optimization**
+- **Database Performance Tuning** (PostgreSQL, MySQL)
+- **Security & Scalability Enhancements**
 - **Containerization & Deployment** (Docker, Linux, Git)
+- **Algorithmic Problem Solving** (LeetCode, Competitive Coding)
 
 > Always learning, optimizing, and building reliable systems.
 
@@ -24,5 +27,6 @@ I'm **Samandar**, a **backend developer** specializing in **Python, Django, and 
 ## 📬 Connect
 
 🔗 **LinkedIn:** [Samandar Hamrayev](https://linkedin.com/in/samandar-hamrayev)  
-💻 **GitHub:** [@Samandar Hamrayev](https://github.com/samandar-hamrayev)  
-💬 **Telegram:** [@Samandar Hamrayev](https://t.me/samandar_hamrayev)
+💻 **GitHub:** [@SamandarHamrayev](https://github.com/samandar-hamrayev)  
+💬 **Telegram:** [@Samandar_Hamrayev](https://t.me/samandar_hamrayev)  
+🏆 **LeetCode:** [Samandar Hamrayev](https://leetcode.com/samandar_hamrayev)  
