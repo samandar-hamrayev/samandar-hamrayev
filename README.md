@@ -20,9 +20,9 @@
 
 💡 Always eager to explore new technologies, refine my skills, and tackle challenging problems.  
 
-### 🔥 Core Skills:
-✅ **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
-✅ **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
+### :fire:  Core Skills:
+- :pushpin:  **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
+- :screen: **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
 ✅ **Database Optimization** – Working with **PostgreSQL & MySQL** for high performance.  
 ✅ **System Architecture** – Learning to build **scalable and secure** applications.  
 ✅ **Continuous Learning** – Always open to exploring new technologies and best practices.  
