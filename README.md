@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-4.2-green?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-5.1-green?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-Framework-green?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux&logoColor=white">
@@ -29,12 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 LeetCode Progress  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-hamrayev&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=samandar-hamrayev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/samandar-hamrayev?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
