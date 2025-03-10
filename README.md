@@ -20,22 +20,22 @@
 
 💡 Always eager to explore new technologies, refine my skills, and tackle challenging problems.  
 
-### :fire:  Core Skills:
-- :pushpin:  **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
-- :screen: **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
-✅ **Database Optimization** – Working with **PostgreSQL & MySQL** for high performance.  
-✅ **System Architecture** – Learning to build **scalable and secure** applications.  
-✅ **Continuous Learning** – Always open to exploring new technologies and best practices.  
+### 🔥  Core Skills:
+- 📌  **Data Structures & Algorithms (DSA)** – Focused on mastering **LeetCode** problems.  
+- 🖥 **Backend Development** – Writing clean, efficient, and maintainable **Django & FastAPI** code.  
+- 🗄 **Database Optimization** – Working with **PostgreSQL & MySQL** for high performance.  
+- 🛠 **System Architecture** – Learning to build **scalable and secure** applications.  
+- 📚 **Continuous Learning** – Always open to exploring new technologies and best practices.  
 
 > 🏆 Currently focusing on **API design, system scalability, and DSA problem-solving**.  
 
 ---
 ## 📌 Learning Roadmap  
 
-- :rocket:  **API Development** – Enhancing structure, performance & security in **Django & FastAPI**.  
-📈 **Advanced DSA** – Practicing **medium & hard** problems on **LeetCode**.  
-🏗 **System Design** – Studying **scalability, caching, and microservices**.  
-📦 **DevOps Basics** – Getting hands-on with **Docker, CI/CD, and Linux servers**.  
+- 🚀:  **API Development** – Enhancing structure, performance & security in **Django & FastAPI**.  
+- 📈 **Advanced DSA** – Practicing **medium & hard** problems on **LeetCode**.  
+- 🏗 **System Design** – Studying **scalability, caching, and microservices**.  
+- 📦 **DevOps Basics** – Getting hands-on with **Docker, CI/CD, and Linux servers**.  
 
 ---
 ## 📬 Connect With Me  
