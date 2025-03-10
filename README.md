@@ -28,13 +28,12 @@
 > 💡 **"Always optimizing, always improving!"**  
 
 ---
+## 📌 Learning Roadmap  
 
-## 🏆 LeetCode Progress  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/samandar-hamrayev?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
-</p>
-
+🚀 **Improving API Development** – Better structuring & optimization with Django & FastAPI.  
+📈 **Advanced DSA** – Practicing **medium & hard problems** on **LeetCode**.  
+🛠 **System Design** – Learning scalability, caching, and microservices.  
+📦 **DevOps Basics** – Working with **Docker, CI/CD, and Linux servers**.  
 ---
 
 ## 📬 Connect With Me  
