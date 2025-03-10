@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Backend Developer | Python & Django</h1>
 
-<!--
-**samandar-hamrayev/samandar-hamrayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Building Scalable, Secure, and High-Performance Backend Systems</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm **Samandar**, a **backend developer** specializing in **Python, Django, and PostgreSQL**. Passionate about designing efficient, scalable, and maintainable backend solutions.
+
+**Core Skills:**
+- **RESTful API Development** with Django & FastAPI
+- **Database Optimization** (PostgreSQL, MySQL)
+- **Security & Performance Enhancements**
+- **Scalable System Architecture**
+- **Containerization & Deployment** (Docker, Linux, Git)
+
+> Always learning, optimizing, and building reliable systems.
+
+---
+
+## 📬 Connect
+
+🔗 **LinkedIn:** [Samandar](https://linkedin.com/in/samandar-hamrayev)  
+💻 **GitHub:** [@Samandar](https://github.com/samandar-hamrayev)  
+💬 **Telegram:** [@yourtelegram](https://t.me/samandar_hamrayev)
