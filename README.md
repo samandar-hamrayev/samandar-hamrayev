@@ -1,66 +1,88 @@
-<h1 align="center">Samandar Hamrayev — Python Backend Engineer</h1>
+<h1 align="center">Samandar Hamrayev</h1>
 
 <p align="center">
-  Scalable APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; DevOps
+  Python Backend Developer &nbsp;·&nbsp; Tashkent, Uzbekistan<br>
+  Building scalable APIs and AI-integrated backend systems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django%20%7C%20DRF-REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-Async-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis%20%7C%20Celery-Async-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Opportunities-22c55e?style=for-the-badge" alt="Open to remote">
+  <img src="https://komarev.com/ghpvc/?username=samandar-hamrayev&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a **Backend Developer** building robust, production-grade APIs and services with the Python ecosystem. I focus on clean architecture, query optimization, and meaningful integrations — from AI APIs to ERP systems.
-
-- Solved **400+ Data Structures & Algorithms** problems on LeetCode
-- Experience with the full API lifecycle: design → authentication → optimization → deployment
-- Passionate about AI integration, async systems, and scalable backends
-
----
-
-## Skills
-
-| Area | Technologies |
-|:-----|:-------------|
-| **Frameworks** | Django, Django REST Framework, FastAPI, Aiogram |
-| **Databases** | PostgreSQL, Redis, SQLite, Firebase |
-| **Search & AI** | Elasticsearch, OpenAI API, Groq (Llama 3.1) |
-| **Async & Tasks** | Celery, WebSockets, Server-Sent Events |
-| **DevOps** | Docker, Nginx, CI/CD, Linux |
-| **Architecture** | Microservices, REST APIs, System Design |
+- Backend Developer at **LINKTRADE** — building enterprise POS and SFA systems in Python
+- Software Engineering student at **TUIT**, Tashkent (graduating 2026)
+- 400+ LeetCode problems solved
+- Interested in distributed systems, AI integration, and high-performance APIs
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [ai-agent](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct AI agent from scratch — no LangChain | FastAPI, Claude API, Redis, ChromaDB |
-| [Academic-Summarizer](https://github.com/samandar-hamrayev/Academic-Summarizer) | AI-powered PDF summarizer with 5-section structured output | Django, Groq, Docker, Nginx |
-| [ecommorce-drf-api](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce REST API — products, carts, orders, reviews | Django, DRF, PostgreSQL |
-| [django-microservice-demo](https://github.com/samandar-hamrayev/django-microservice-demo) | Microservices demo with User + Task services and API gateway | Django, DRF |
-| [Qadam-Club-Bot](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Telegram habit-tracking bot with Mini App and admin panel | Flask, python-telegram-bot, Docker |
-| [my-tunnel](https://github.com/samandar-hamrayev/my-tunnel) | Localhost tunneling service (ngrok alternative) in Python | FastAPI, uvicorn |
+**Frameworks & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Databases & Async**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & Bots**
+
+![Claude API](https://img.shields.io/badge/Claude%20API-D4A017?style=flat-square)
+![Groq AI](https://img.shields.io/badge/Groq%20AI-000000?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![aiogram](https://img.shields.io/badge/aiogram%203-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
-## Connect
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/-samandar--hamrayev-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)
-[![GitHub](https://img.shields.io/badge/-samandar--hamrayev-181717?style=flat&logo=github&logoColor=white)](https://github.com/samandar-hamrayev)
-[![LeetCode](https://img.shields.io/badge/-400%2B%20Solved-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/samandar-hamrayev)
-[![Telegram](https://img.shields.io/badge/-@samandar__hamrayev-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [ai-agent](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct AI agent — built from scratch, no LangChain | FastAPI · Claude API · Redis · ChromaDB |
+| [Academic-Summarizer](https://github.com/samandar-hamrayev/Academic-Summarizer) | Upload a PDF, get a structured 5-section academic summary | Django · Groq / Llama 3.3-70B · Docker |
+| [django-microservice-demo](https://github.com/samandar-hamrayev/django-microservice-demo) | Microservices demo: User Service + Task Service + API gateway | Django · DRF |
+| [Qadam-Club-Bot](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Telegram habit-tracking bot with Mini App and streak system | Flask · python-telegram-bot · Docker |
 
 ---
+
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samandar-hamrayev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-hamrayev&layout=compact&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=samandar-hamrayev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="155">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-hamrayev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="155">
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samandar-hamrayev/samandar-hamrayev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samandar-hamrayev/samandar-hamrayev/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/samandar-hamrayev/samandar-hamrayev/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samandar--hamrayev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)
+[![Telegram](https://img.shields.io/badge/Telegram-@samandar__hamrayev-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/samandar-hamrayev)
+[![Email](https://img.shields.io/badge/Email-samandarhamrayev555%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samandarhamrayev555@gmail.com)
