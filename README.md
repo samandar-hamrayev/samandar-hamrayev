@@ -1,61 +1,66 @@
-<h1 align="center">🚀 Samandar Hamrayev | Python Backend Engineer</h1>
+<h1 align="center">Samandar Hamrayev — Python Backend Engineer</h1>
 
 <p align="center">
-  <strong>Scalable Backend Solutions | High-Performance APIs | AI & Search Integration</strong>  
+  Scalable APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; DevOps
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django%20|%20DRF-API-green?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-Async-green?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-Optimization-blue?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis%20|%20Celery-Async-red?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic%20Search-Search-black?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django%20%7C%20DRF-REST%20API-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-Async-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis%20%7C%20Celery-Async-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 ---
 
-## 👨‍💻 About Me & Expertise  
+## About Me
 
-👋 Hi, I'm **Samandar**, a Backend Developer focused on architecting, developing, and deploying robust backend services. I specialize in turning complex requirements into efficient and scalable API solutions using the Python ecosystem.
+I'm a **Backend Developer** building robust, production-grade APIs and services with the Python ecosystem. I focus on clean architecture, query optimization, and meaningful integrations — from AI APIs to ERP systems.
 
-💡 I focus on optimizing the entire data flow, from database schema design to low-latency API delivery. I have proven experience integrating advanced features like AI and high-speed search into production environments.
-
-> 🏆 **Problem Solving:** Solved **400+ Data Structures & Algorithms (DSA) problems** on LeetCode.
-
----
-## 🔥 Technical Proficiency  
-
-| Category | Key Technologies & Skills | Experience Highlights |
-| :--- | :--- | :--- |
-| **Backend Frameworks** | **Django**, **Django REST Framework (DRF)**, **FastAPI** (Asynchronous APIs), Aiogram | Full API lifecycle management, including authentication (JWT, OAuth2). |
-| **Databases & Cache** | **PostgreSQL** (Optimization, Indexing), SQLite, **Redis** (Caching, Session), Firebase | Expertise in optimizing complex SQL queries for performance. |
-| **Integration & Async** | **Elastic Search**, **Celery**, **AI APIs (OpenAI)**, WebSockets, Odoo ERP, Twilio | Implemented full-text search and managed high-volume background tasks. |
-| **DevOps & Tools** | **Docker** (Containerization), Git/GitHub, Linux, CI/CD Principles | Deploying applications in standardized, reproducible environments. |
-| **Architecture** | **System Design** principles (Caching, Load Balancing), **Microservices** concepts | Experience designing scalable, decoupled components (e.g., Inexlynk platform). |
+- Solved **400+ Data Structures & Algorithms** problems on LeetCode
+- Experience with the full API lifecycle: design → authentication → optimization → deployment
+- Passionate about AI integration, async systems, and scalable backends
 
 ---
-## 📌 Key Projects & Impact  
 
-*Loyihalaringiz haqida qisqa, ta'sirchan ma'lumot. Repolarni esa pin qilib qo'yish kerak.*
+## Skills
 
-### 1. Inexlynk E-commerce & Content Platform (High-Speed Search & AI)
-- 💡 **AI Integration:** Developed APIs using OpenAI to reduce post/product description generation time by **40\%**.
-- 🔍 **Search Optimization:** Implemented **Elastic Search** for high-speed, relevant full-text search across 10,000+ listings.
-- ⚙️ **Tech Focus:** Django, DRF, Elastic Search, Docker, Celery/Redis.
-
-### 2. Automotive Service Platform (ERP Integration)
-- 🤝 **ERP Sync:** Managed real-time data synchronization between the API and **Odoo ERP**.
-- 🔒 **Security:** Implemented OTP authentication (Twilio) with robust rate-limiting.
-- ⚙️ **Tech Focus:** Django, PostgreSQL optimization, Twilio API, Odoo.
+| Area | Technologies |
+|:-----|:-------------|
+| **Frameworks** | Django, Django REST Framework, FastAPI, Aiogram |
+| **Databases** | PostgreSQL, Redis, SQLite, Firebase |
+| **Search & AI** | Elasticsearch, OpenAI API, Groq (Llama 3.1) |
+| **Async & Tasks** | Celery, WebSockets, Server-Sent Events |
+| **DevOps** | Docker, Nginx, CI/CD, Linux |
+| **Architecture** | Microservices, REST APIs, System Design |
 
 ---
-## 📬 Connect With Me  
 
-I'm currently seeking new opportunities where I can apply my skills in scalable API development and advanced integrations.
+## Featured Projects
 
-🔗 **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-Samandar_Hamrayev-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)  
-💻 **GitHub:** [![GitHub Badge](https://img.shields.io/badge/-Samandar_Hamrayev-black?style=flat&logo=github&logoColor=white)](https://github.com/samandar-hamrayev)  
-🧩 **LeetCode (400+ Solved):** [![LeetCode Badge](https://img.shields.io/badge/-Samandar_Hamrayev-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/samandar-hamrayev)  
-💬 **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-@samandar_hamrayev-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [ai-agent](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct AI agent from scratch — no LangChain | FastAPI, Claude API, Redis, ChromaDB |
+| [Academic-Summarizer](https://github.com/samandar-hamrayev/Academic-Summarizer) | AI-powered PDF summarizer with 5-section structured output | Django, Groq, Docker, Nginx |
+| [ecommorce-drf-api](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce REST API — products, carts, orders, reviews | Django, DRF, PostgreSQL |
+| [django-microservice-demo](https://github.com/samandar-hamrayev/django-microservice-demo) | Microservices demo with User + Task services and API gateway | Django, DRF |
+| [Qadam-Club-Bot](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Telegram habit-tracking bot with Mini App and admin panel | Flask, python-telegram-bot, Docker |
+| [my-tunnel](https://github.com/samandar-hamrayev/my-tunnel) | Localhost tunneling service (ngrok alternative) in Python | FastAPI, uvicorn |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-samandar--hamrayev-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)
+[![GitHub](https://img.shields.io/badge/-samandar--hamrayev-181717?style=flat&logo=github&logoColor=white)](https://github.com/samandar-hamrayev)
+[![LeetCode](https://img.shields.io/badge/-400%2B%20Solved-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/samandar-hamrayev)
+[![Telegram](https://img.shields.io/badge/-@samandar__hamrayev-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samandar-hamrayev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-hamrayev&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
