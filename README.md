@@ -35,7 +35,7 @@ POS/ERP integrations, background processing and the infrastructure to ship them.
 | [**Qadam-Club-Bot**](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Habit-challenge Telegram bot + Mini App with signed `initData` auth, timezone-aware streaks and leaderboards | Flask · SQLAlchemy · python-telegram-bot |
 | [**edu-help-bot**](https://github.com/samandar-hamrayev/edu-help-bot) | Student Q&A bot with a Django admin; answers delivered through an outbox with retries and status tracking | aiogram 3 · Django · PostgreSQL · Docker |
 
-Every featured repo ships with tests, Docker, and a GitHub Actions pipeline (lint · tests · image build · secret scan).
+Every featured repo ships with tests, Docker, and a GitHub Actions pipeline (lint · tests · Docker build).
 
 ### Tech stack
 
