@@ -29,7 +29,7 @@ POS/ERP integrations, background processing and the infrastructure to ship them.
 | Project | What it is | Stack |
 |---|---|---|
 | [**ai-agent**](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct agent on the Claude API, built from scratch: parallel tool calls, Redis + ChromaDB memory, PostgreSQL run history, SSE streaming, hardened Docker | FastAPI · Claude API · Redis · ChromaDB · PostgreSQL |
-| [**ecommerce-drf-api**](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce API with transactional checkout (row locks, price snapshots) and **Click SHOP-API + Payme Merchant API** callbacks with signature checks and idempotency | Django · DRF · PostgreSQL · Docker |
+| [**ecommerce-drf-api**](https://github.com/samandar-hamrayev/ecommerce-drf-api) | E-commerce API with transactional checkout (row locks, price snapshots) and **Click SHOP-API + Payme Merchant API** callbacks with signature checks and idempotency | Django · DRF · PostgreSQL · Docker |
 | [**my-tunnel**](https://github.com/samandar-hamrayev/my-tunnel) | Self-hosted ngrok-style tunnel: public requests multiplexed over one authenticated WebSocket, with timeouts, reconnects and e2e tests | FastAPI · asyncio · WebSocket · httpx |
 | [**Academic-Summarizer**](https://github.com/samandar-hamrayev/Academic-Summarizer) | Research PDF → structured AI summary (EN/RU/UZ), PDF/DOCX export, expiring share links, per-user isolation | Django · Groq / Llama 3.3 · PostgreSQL · nginx |
 | [**Qadam-Club-Bot**](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Habit-challenge Telegram bot + Mini App with signed `initData` auth, timezone-aware streaks and leaderboards | Flask · SQLAlchemy · python-telegram-bot |
