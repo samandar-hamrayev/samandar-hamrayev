@@ -1,80 +1,70 @@
 <h1 align="center">Samandar Hamrayev</h1>
 
 <p align="center">
-  Python Backend Developer &nbsp;·&nbsp; Tashkent, Uzbekistan<br>
-  Building scalable APIs and AI-integrated backend systems.
+  <b>Python Backend Engineer</b> · Tashkent, Uzbekistan<br>
+  Django / FastAPI · payments &amp; third-party integrations · AI agents built from first principles
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Opportunities-22c55e?style=for-the-badge" alt="Open to remote">
-  <img src="https://komarev.com/ghpvc/?username=samandar-hamrayev&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://linkedin.com/in/samandar-hamrayev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/samandar_hamrayev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:samandarhamrayev555@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/samandar-hamrayev"><img src="https://img.shields.io/badge/LeetCode-400%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
 
-## About
+### About
 
-- Backend Developer at **LINKTRADE** — building enterprise POS and SFA systems in Python
-- Software Engineering student at **TUIT**, Tashkent (graduating 2026)
-- 400+ LeetCode problems solved
-- Interested in distributed systems, AI integration, and high-performance APIs
+I build backend systems that move money and data between services: REST and async APIs, payment flows,
+POS/ERP integrations, background processing and the infrastructure to ship them.
 
----
+- **1.5+ years of commercial experience**, currently at **Linko** (LINKTRADE) on enterprise POS and SFA systems; previously at **GreatSoft** and **Upgrow**
+- **Integrations I have built:** Click · Payme · Atmos · Multicard (payments), iiko (restaurant POS), Odoo (ERP), OpenAI
+- **Currently exploring:** agentic systems — tool use, memory and evaluation, written without frameworks so every part is understood
+- Software Engineering, **TUIT** · 400+ LeetCode problems
 
-## Tech Stack
+### Featured projects
 
-**Frameworks & Languages**
+| Project | What it is | Stack |
+|---|---|---|
+| [**ai-agent**](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct agent on the Claude API, built from scratch: parallel tool calls, Redis + ChromaDB memory, PostgreSQL run history, SSE streaming, hardened Docker, CI | FastAPI · Claude API · Redis · ChromaDB · PostgreSQL |
+| [**Academic-Summarizer**](https://github.com/samandar-hamrayev/Academic-Summarizer) | Upload a research PDF, get a structured five-section summary; export to PDF/DOCX | Django · Groq / Llama · Docker · Nginx |
+| [**my-tunnel**](https://github.com/samandar-hamrayev/my-tunnel) | Self-hosted ngrok-style tunnel that exposes a local server through a public relay | FastAPI · Python CLI |
+| [**ecommerce-drf-api**](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce backend: catalog, cart, orders, reviews, JWT auth | Django REST Framework · PostgreSQL |
+| [**Qadam-Club-Bot**](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Habit-tracking Telegram bot + Mini App with streaks and leaderboards | Flask · python-telegram-bot · APScheduler |
+| [**edu-help-bot**](https://github.com/samandar-hamrayev/edu-help-bot) | Telegram support bot with a Django admin for content management | aiogram 3 · Django · PostgreSQL · Docker |
 
+### Tech stack
+
+**Languages & frameworks**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_(async)-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Databases & Async**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Data & messaging**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![arq](https://img.shields.io/badge/arq-555555?style=flat-square)
 
-**DevOps & Tools**
-
+**Infrastructure**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**AI & Bots**
-
-![Claude API](https://img.shields.io/badge/Claude%20API-D4A017?style=flat-square)
-![Groq AI](https://img.shields.io/badge/Groq%20AI-000000?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![aiogram](https://img.shields.io/badge/aiogram%203-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-
----
-
-## Projects
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| [ai-agent](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct AI agent — built from scratch, no LangChain | FastAPI · Claude API · Redis · ChromaDB |
-| [Academic-Summarizer](https://github.com/samandar-hamrayev/Academic-Summarizer) | Upload a PDF, get a structured 5-section academic summary | Django · Groq / Llama 3.3-70B · Docker |
-| [django-microservice-demo](https://github.com/samandar-hamrayev/django-microservice-demo) | Microservices demo: User Service + Task Service + API gateway | Django · DRF |
-| [Qadam-Club-Bot](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Telegram habit-tracking bot with Mini App and streak system | Flask · python-telegram-bot · Docker |
+**AI & bots**<br>
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![aiogram](https://img.shields.io/badge/aiogram_3-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samandar-hamrayev&theme=github-dark&hide_border=true" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-hamrayev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="155">
-</p>
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samandar--hamrayev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samandar-hamrayev)
-[![Telegram](https://img.shields.io/badge/Telegram-@samandar__hamrayev-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/samandar_hamrayev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/samandar-hamrayev)
-[![Email](https://img.shields.io/badge/Email-samandarhamrayev555%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:samandarhamrayev555@gmail.com)
+<p align="center"><i>Open to backend roles — remote or in Tashkent.</i></p>
