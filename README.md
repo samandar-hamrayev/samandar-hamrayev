@@ -28,12 +28,14 @@ POS/ERP integrations, background processing and the infrastructure to ship them.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**ai-agent**](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct agent on the Claude API, built from scratch: parallel tool calls, Redis + ChromaDB memory, PostgreSQL run history, SSE streaming, hardened Docker, CI | FastAPI · Claude API · Redis · ChromaDB · PostgreSQL |
-| [**Academic-Summarizer**](https://github.com/samandar-hamrayev/Academic-Summarizer) | Upload a research PDF, get a structured five-section summary; export to PDF/DOCX | Django · Groq / Llama · Docker · Nginx |
-| [**my-tunnel**](https://github.com/samandar-hamrayev/my-tunnel) | Self-hosted ngrok-style tunnel that exposes a local server through a public relay | FastAPI · Python CLI |
-| [**ecommerce-drf-api**](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce backend: catalog, cart, orders, reviews, JWT auth | Django REST Framework · PostgreSQL |
-| [**Qadam-Club-Bot**](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Habit-tracking Telegram bot + Mini App with streaks and leaderboards | Flask · python-telegram-bot · APScheduler |
-| [**edu-help-bot**](https://github.com/samandar-hamrayev/edu-help-bot) | Telegram support bot with a Django admin for content management | aiogram 3 · Django · PostgreSQL · Docker |
+| [**ai-agent**](https://github.com/samandar-hamrayev/ai-agent) | Autonomous ReAct agent on the Claude API, built from scratch: parallel tool calls, Redis + ChromaDB memory, PostgreSQL run history, SSE streaming, hardened Docker | FastAPI · Claude API · Redis · ChromaDB · PostgreSQL |
+| [**ecommerce-drf-api**](https://github.com/samandar-hamrayev/ecommorce-drf-api) | E-commerce API with transactional checkout (row locks, price snapshots) and **Click SHOP-API + Payme Merchant API** callbacks with signature checks and idempotency | Django · DRF · PostgreSQL · Docker |
+| [**my-tunnel**](https://github.com/samandar-hamrayev/my-tunnel) | Self-hosted ngrok-style tunnel: public requests multiplexed over one authenticated WebSocket, with timeouts, reconnects and e2e tests | FastAPI · asyncio · WebSocket · httpx |
+| [**Academic-Summarizer**](https://github.com/samandar-hamrayev/Academic-Summarizer) | Research PDF → structured AI summary (EN/RU/UZ), PDF/DOCX export, expiring share links, per-user isolation | Django · Groq / Llama 3.3 · PostgreSQL · nginx |
+| [**Qadam-Club-Bot**](https://github.com/samandar-hamrayev/Qadam-Club-Bot) | Habit-challenge Telegram bot + Mini App with signed `initData` auth, timezone-aware streaks and leaderboards | Flask · SQLAlchemy · python-telegram-bot |
+| [**edu-help-bot**](https://github.com/samandar-hamrayev/edu-help-bot) | Student Q&A bot with a Django admin; answers delivered through an outbox with retries and status tracking | aiogram 3 · Django · PostgreSQL · Docker |
+
+Every featured repo ships with tests, Docker, and a GitHub Actions pipeline (lint · tests · image build · secret scan).
 
 ### Tech stack
 
